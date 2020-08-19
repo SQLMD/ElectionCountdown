@@ -1,0 +1,10 @@
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\bin\Debug\ElectionCountdown.exe.config
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\bin\Debug\ElectionCountdown.exe
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\bin\Debug\ElectionCountdown.pdb
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.csprojAssemblyReference.cache
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.Properties.Resources.resources
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.csproj.GenerateResource.cache
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.csproj.CoreCompileInputs.cache
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.exe
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.pdb
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.frmCountdown.resources
