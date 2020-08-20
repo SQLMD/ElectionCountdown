@@ -20,11 +20,11 @@ namespace ElectionCountdown
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-            System.DateTime firstDate = new System.DateTime(2020, 08, 19);
-            System.DateTime secondDate = new System.DateTime(2020, 11, 03);
 
-            var diff = (secondDate - firstDate).TotalDays.ToString();
+            DateTime today = DateTime.Today;
+            DateTime secondDate = new DateTime(2020, 11, 03);
+
+            var diff = (secondDate - today).TotalDays.ToString();
             txtCountdown.Text = diff;
         }
     }

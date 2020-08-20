@@ -8,3 +8,7 @@ C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdow
 C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.exe
 C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.pdb
 C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.frmCountdown.resources
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\bin\Debug\ElectionCountdown.exe.manifest
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\bin\Debug\ElectionCountdown.application
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.exe.manifest
+C:\Users\Mike Donnelly\source\repos\ElectionCountdown\obj\Debug\ElectionCountdown.application
